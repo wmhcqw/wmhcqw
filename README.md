@@ -15,7 +15,26 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Still learning here...
+My name is Minhao Wang.
+
+Not a senior algorithm developer, still learning here.
+
+🔭 I’m currently working on `AIDD`;
+
+🌱 I’m currently learning `Algorithm`;
+
+💻 Coding Languages:
+  - `Python`
+  - `C++`
+  - `Java`
+
+📫 How to reach me: wmhhh77@gmail.com;
+
+  - 🉑 First Language `Mandarin`;
+
+  - 🆎 Other Language `English`;
+
+---
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wmhcqw&count_private=true&theme=dracula&show_icons=true)
 
